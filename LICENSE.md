@@ -1,4 +1,4 @@
-# 
+# Automático Audacity predefinições para Mac OS | Elite Audacity predefinições para PC Windows. Com fade in/out e gravação — otimizado para máximo desempenho em cada plataforma.
 
 
 
